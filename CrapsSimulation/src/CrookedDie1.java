@@ -10,6 +10,8 @@ public class CrookedDie1 extends Die
 	{
 		return 3;
 	}
+	
+	//Test
 
 	public String toString() // this OVERRIDES Die's toString()
 	{
